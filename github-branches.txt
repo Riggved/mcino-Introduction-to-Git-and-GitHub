@@ -1,0 +1,8 @@
+$ git branch -a -vv
+  bug-fix-revert                2b63daf [origin/bug-fix-revert] Revert "Fix typo: update copyright year from 2022 to 2023"
+  bug-fix-typo                  752187a [origin/bug-fix-typo] Fix typo: update copyright year from 2022 to 2023
+* main                          752187a [origin/main] Fix typo: update copyright year from 2022 to 2023
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 2b63daf Revert "Fix typo: update copyright year from 2022 to 2023"
+  remotes/origin/bug-fix-typo   752187a Fix typo: update copyright year from 2022 to 2023
+  remotes/origin/main           752187a Fix typo: update copyright year from 2022 to 2023
